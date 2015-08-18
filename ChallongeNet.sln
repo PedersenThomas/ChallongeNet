@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallongeNet", "ChallongeNet\ChallongeNet.csproj", "{E4831915-3182-4634-AD3D-FBC019611D37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallongeNet.TestProject", "ChallongeNet.TestProject\ChallongeNet.TestProject.csproj", "{19D27A93-CF5B-4CD3-B472-2DE1F59DBAA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4831915-3182-4634-AD3D-FBC019611D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4831915-3182-4634-AD3D-FBC019611D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4831915-3182-4634-AD3D-FBC019611D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4831915-3182-4634-AD3D-FBC019611D37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D27A93-CF5B-4CD3-B472-2DE1F59DBAA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D27A93-CF5B-4CD3-B472-2DE1F59DBAA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D27A93-CF5B-4CD3-B472-2DE1F59DBAA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D27A93-CF5B-4CD3-B472-2DE1F59DBAA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
